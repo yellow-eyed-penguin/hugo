@@ -1,0 +1,8 @@
+baseURL = 'https://yellow-eyed-penguin.github.io/hugo'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "hugo-coder"
+defaultcontentlanguage = "en"
+
+[params.goatCounter]
+  code = "penguin" # You will access your account at https://[code].goatcounter.com
